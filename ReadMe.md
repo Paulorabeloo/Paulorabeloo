@@ -1,5 +1,5 @@
 # 💫 About Me:
-📖 Estudando Linguagem C, Java<br>💻 Estou procurando um Estágio
+📖 Estudando Linguagem C e Java<br>💻 Estou procurando um Estágio
 
 
 ## 🌐 Socials:
