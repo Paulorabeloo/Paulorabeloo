@@ -12,7 +12,14 @@ I am currently studying **Systems Analysis and Development** at **FATEC American
 ---
 
 ### 🚀 Technologies and Tools
-
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 <img align="left" alt="C" title="C" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img 
@@ -47,6 +54,14 @@ I am currently studying **Systems Analysis and Development** at **FATEC American
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
 
 <br/><br/>
 
@@ -60,7 +75,11 @@ I am currently studying **Systems Analysis and Development** at **FATEC American
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Paulorabeloo&show_icons=true&theme=nightowl&include_all_commits=true&locale=en" 
   />
-
+<img 
+align="left"
+height="200"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulorabeloo&layout=compact&theme=nightowl&v=1"
+/>
   <img 
       align="left" 
       alt="Most Used Technologies" 
