@@ -65,26 +65,3 @@ I am currently studying **Systems Analysis and Development** at **FATEC American
 
 <br/><br/>
 
-### 📊 GitHub Stats
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Paulorabeloo&show_icons=true&theme=nightowl&include_all_commits=true&locale=en" 
-  />
-<img 
-align="left"
-height="200"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulorabeloo&layout=compact&theme=nightowl&v=1"
-/>
-  <img 
-      align="left" 
-      alt="Most Used Technologies" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulorabeloo&theme=nightowl&layout=compact&langs_count=9" 
-  />
-</p>
-
