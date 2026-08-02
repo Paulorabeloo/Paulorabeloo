@@ -2,9 +2,9 @@
 
 **`Systems Analysis and Development Student`**
 
-Since my childhood, I have always had a passion for technology because I believe that creativity in this field can reach extraordinary levels. 🌟
-
-I am currently studying **Systems Analysis and Development** at **FATEC Americana/SP**. Every day, I work to enhance my knowledge and apply programming concepts to solve real-world problems. Additionally, I am eager to expand my professional network by connecting with industry experts and exploring new opportunities in the tech market.
+Marketing Analytics | SQL · Python · GA4
+Building the data infrastructure that turns marketing into revenue.
+Transitioning to Analytics Engineering.
 
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo~rabelo/)  
@@ -12,6 +12,14 @@ I am currently studying **Systems Analysis and Development** at **FATEC American
 ---
 
 ### 🚀 Technologies and Tools
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
 <img 
     align="left" 
     alt="Python" 
@@ -53,14 +61,6 @@ I am currently studying **Systems Analysis and Development** at **FATEC American
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 
 <br/><br/>
